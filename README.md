@@ -1,0 +1,2 @@
+# tesseract-OCR
+ simcard detection
